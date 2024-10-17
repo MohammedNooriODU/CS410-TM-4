@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Feasability Presentation 1
+description: The first feasability presentation
 ---
 
 # Feasability 1 Presentation
