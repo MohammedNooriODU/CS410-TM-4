@@ -1,7 +1,7 @@
 ---
 layout: default
 title: GrubTurbo
-description: Pick your next meal in **Turbo** time
+description: Pick your next meal in *Turbo* time
 ---
 
 # Project Directory
