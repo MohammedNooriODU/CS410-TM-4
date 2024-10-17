@@ -6,18 +6,18 @@ description: A mutually agreed-upon agreement outlining expectations, roles, and
 
 
 # Team Members, Contact Information, Github Username:
- - Qin Davis, qdavi007@odu.edu, qindavis (973-670-1090)
+ - Qin Davis, qdavi007@odu.edu, qindavis
  
  - Josh Hardy, jhard048@odu.edu
  
- - Grey Kropf, akrop003@odu.edu, agrkropf (757-814-5865)
+ - Grey Kropf, akrop003@odu.edu, agrkropf
  
  - Mohammed Noori, mnoor002@odu.edu, MohammedNooriODU
  
  - Shon Taylor, stayl077@odu.edu, Zickneko
  
 # Team Meetings:
-- Tuesday - 6:00PM - 7:00PM
+- Monday - 6:00PM - 7:00PM
 - Saturday - 6:00PM - 7:00PM (Optional)
 - Thursday - Recitation Time 9:00 AM - 10:50 AM
 
