@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Team Contract
-description: A mutually agreed-upon agreement outlining expectations, roles, and responsibilities among team members.
+title: The Problem
+description: The current problem
 ---
 
 # The Problem
