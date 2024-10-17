@@ -1,3 +1,10 @@
+---
+layout: default
+title: Team Contract
+description: A mutually agreed-upon agreement outlining expectations, roles, and responsibilities among team members.
+---
+
+
 # Team Members, Contact Information, Github Username:
  - Qin Davis, qdavi007@odu.edu, qindavis (973-670-1090)
  
