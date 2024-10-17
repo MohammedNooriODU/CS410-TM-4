@@ -1,3 +1,9 @@
+---
+layout: default
+title: GrubTurbo
+description: Pick your next meal in **Turbo** time
+---
+
 # Project Directory
 - [Team Contract](team_contract.md)
 - [The Problem](the_problem.md)
