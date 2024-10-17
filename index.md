@@ -1,2 +1,2 @@
-# GrubTurbo - Team 4
+# Project Directory
 [Team Contract](Team_Contract.md) 
