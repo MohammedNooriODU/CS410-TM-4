@@ -1,2 +1,2 @@
-# CS410-TM-4
-[team contract](Team_Contract.md) 
+# GrubTurbo - Team 4
+[Team Contract](Team_Contract.md) 
