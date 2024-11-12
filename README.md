@@ -1,5 +1,7 @@
 # Instruction for Team 4 Members
 
+NOTE: always start your work session with git pull and end it with git push (if its ready to add).
+
 1. clone the repository
 
 ```
