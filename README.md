@@ -1,3 +1,45 @@
+# Instruction for Team 4 Members
+
+1. clone the repository
+
+```
+git clone <repository-name>
+```
+
+2. install the packages
+
+```
+npm install
+```
+
+3. go to `next.config.mjs` and comment out everything inside nextConfig
+
+```
+/** @type {import('next').NextConfig} */
+const nextConfig = {
+  // output: "export",
+  // //   distDir: "dist",
+  // basePath: "/CS410-TM-4",
+  // images: {
+  //   unoptimized: true,
+  // },
+};
+
+export default nextConfig;
+```
+
+4. Add `next.config.mjs` to your `.git.ignore` so its not going to be uploaded accidentally **OR** just don't add it to your commits
+
+```
+next.config.mjs
+```
+
+5. Run as dev to start developing
+
+```
+npm run dev
+```
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started

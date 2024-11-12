@@ -5,7 +5,7 @@ export default function Hero() {
     <div className="hero min-h-screen">
       <div className="hero-content text-center">
         <div className="max-w-md">
-          <Image
+          <img
             src="logo.png"
             className="drop-shadow-lg"
             width={500}
