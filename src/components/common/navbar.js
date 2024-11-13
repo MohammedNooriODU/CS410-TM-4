@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { root } from "postcss";
 
 export default function Navbar() {
   return (
@@ -29,7 +30,7 @@ export default function Navbar() {
               <Link href="/problem">Problem</Link>
             </li>
             <li>
-              <a>Solution</a>
+              <Link href="/solution">Solution</Link>
             </li>
             <li>
               <a>Team Members</a>
@@ -61,7 +62,7 @@ export default function Navbar() {
               <a>Presentations</a>
               <ul className="p-2">
                 <li>
-                  <a>Feasibility</a>
+                  <Link href={"/presentations/feasibility"}>Feasibility</Link>
                 </li>
                 <li>
                   <a>Design</a>
@@ -80,7 +81,7 @@ export default function Navbar() {
             <Link href="/problem">Problem</Link>
           </li>
           <li>
-            <a>Solution</a>
+          <Link href="/solution">Solution</Link>
           </li>
           <li>
             <a>Team Members</a>
@@ -115,7 +116,7 @@ export default function Navbar() {
               <summary>Presentations</summary>
               <ul className="p-2">
                 <li>
-                  <a>Feasibility</a>
+                <Link href="/presentations/feasibility">Feasibility</Link>
                 </li>
                 <li>
                   <a>Design</a>
