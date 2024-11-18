@@ -124,6 +124,9 @@ export default function Navbar() {
               </ul>
             </details>
           </li>
+          <li>
+          <Link href="/Story">User Stories</Link>
+          </li>
         </ul>
       </div>
     </div>
