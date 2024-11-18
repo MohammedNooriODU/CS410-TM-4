@@ -1,25 +1,28 @@
-import localFont from "next/font/local";
+import { localFont } from "next/font/local";
+import { Montserrat } from "next/font/google";
 import "./globals.css";
 import Navbar from "@/components/common/navbar";
 import Footer from "@/components/common/footer";
 import Head from "next/head";
 
-const geistSans = localFont({
-  src: "./fonts/GeistVF.woff",
-  variable: "--font-geist-sans",
-  weight: "100 900",
-});
-const geistMono = localFont({
-  src: "./fonts/GeistMonoVF.woff",
-  variable: "--font-geist-mono",
-  weight: "100 900",
-});
+// const geistSans = localFont({
+//   src: "./fonts/GeistVF.woff",
+//   variable: "--font-geist-sans",
+//   weight: "100 900",
+// });
+// const geistMono = localFont({
+//   src: "./fonts/GeistMonoVF.woff",
+//   variable: "--font-geist-mono",
+//   weight: "100 900",
+// });
 
 export const metadata = {
   title: "GrubTurbo",
   description:
     "Food application that will help you pick your next meal in turbo time",
 };
+
+const montserrat = Montserrat({ subsets: ["latin"] });
 
 export default function RootLayout({ children }) {
   return (
@@ -41,7 +44,7 @@ export default function RootLayout({ children }) {
         />
       </Head>
       <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased animated-gradient-bg`}
+        className={`antialiased animated-gradient-bg ${montserrat.className}`}
       >
         <Navbar />
         {children}
