@@ -6,7 +6,7 @@ export default function CurrentProcessFlow() {
       <div className="flex flex-col items-center gap-6 p-6">
         <h1 className="text-5xl font-bold">The Current Process Flow</h1>
         <Image
-          src="currentpf.png"
+          src="../currentpf.png"
           width={800}
           height={800}
           alt="current-process-flow-image"
