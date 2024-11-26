@@ -33,22 +33,26 @@ export default function Navbar() {
               <Link href="/solution">Solution</Link>
             </li>
             <li>
-              <a>Team Members</a>
+              <Link href="/team-members">Team Members</Link>
             </li>
             <li>
-              <a>Glossary</a>
+              <Link href="/glossary">Glossary</Link>
             </li>
             <li>
-              <a>References</a>
+              <Link href="/references">References</Link>
             </li>
             <li>
               <a>Deliverables</a>
               <ul className="p-2">
                 <li>
-                  <a>Current Process Flow</a>
+                  <Link href="/deliverables/current-process-flow">
+                    Current Process Flow
+                  </Link>
                 </li>
                 <li>
-                  <a>Solution Problem Flow</a>
+                  <Link href="/deliverables/solution-process-flow">
+                    Solution Process Flow
+                  </Link>
                 </li>
                 <li>
                   <a>Risk Matrix</a>
@@ -65,7 +69,7 @@ export default function Navbar() {
                   <Link href={"/presentations/feasibility"}>Feasibility</Link>
                 </li>
                 <li>
-                  <a>Design</a>
+                  <Link href="/presentations/design">Design</Link>
                 </li>
               </ul>
             </li>
@@ -81,26 +85,30 @@ export default function Navbar() {
             <Link href="/problem">Problem</Link>
           </li>
           <li>
-          <Link href="/solution">Solution</Link>
+            <Link href="/solution">Solution</Link>
           </li>
           <li>
-            <a>Team Members</a>
+            <Link href="/team-members">Team Members</Link>
           </li>
           <li>
-            <a>Glossary</a>
+            <Link href="/glossary">Glossary</Link>
           </li>
           <li>
-            <a>References</a>
+            <Link href="/references">References</Link>
           </li>
           <li>
             <details>
               <summary>Deliverables</summary>
               <ul className="p-2">
                 <li>
-                  <a>Current Process Flow</a>
+                  <Link href="/deliverables/current-process-flow">
+                    Current Process Flow
+                  </Link>
                 </li>
                 <li>
-                  <a>Solution Process Flow</a>
+                  <Link href="/deliverables/solution-process-flow">
+                    Solution Process Flow
+                  </Link>
                 </li>
                 <li>
                   <a>Risk Matrix</a>
@@ -116,10 +124,10 @@ export default function Navbar() {
               <summary>Presentations</summary>
               <ul className="p-2">
                 <li>
-                <Link href="/presentations/feasibility">Feasibility</Link>
+                  <Link href="/presentations/feasibility">Feasibility</Link>
                 </li>
                 <li>
-                  <a>Design</a>
+                  <Link href="/presentations/design">Design</Link>
                 </li>
               </ul>
             </details>
