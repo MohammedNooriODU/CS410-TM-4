@@ -42,6 +42,21 @@ export default function Navbar() {
               <Link href="/references">References</Link>
             </li>
             <li>
+              <a>Algorithms</a>
+              <ul className="p-2">
+                <li>
+                  <Link href="/algorithms/info-collection">
+                    Restaurant Collection
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/algorithms/user-registration">
+                    User Registration
+                  </Link>
+                </li>
+              </ul>
+            </li>
+            <li>
               <a>Deliverables</a>
               <ul className="p-2">
                 <li>
@@ -55,10 +70,17 @@ export default function Navbar() {
                   </Link>
                 </li>
                 <li>
-                  <a>Risk Matrix</a>
+                  <Link href="/deliverables/risk-matrix">Risk Matrix</Link>
                 </li>
                 <li>
-                  <a>Competition Matrix</a>
+                  <Link href="/deliverables/competition-matrix">
+                    Competition Matrix
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/deliverables/work-breakdown">
+                    Work Breakdown
+                  </Link>
                 </li>
               </ul>
             </li>
@@ -72,6 +94,9 @@ export default function Navbar() {
                   <Link href="/presentations/design">Design</Link>
                 </li>
               </ul>
+            </li>
+            <li>
+              <Link href="/Story">User Stories</Link>
             </li>
           </ul>
         </div>
@@ -98,6 +123,23 @@ export default function Navbar() {
           </li>
           <li>
             <details>
+              <summary>Algorithms</summary>
+              <ul className="p-2">
+                <li>
+                  <Link href="/algorithms/info-collection">
+                    Restaurant Collection
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/algorithms/user-registration">
+                    User Registration
+                  </Link>
+                </li>
+              </ul>
+            </details>
+          </li>
+          <li>
+            <details>
               <summary>Deliverables</summary>
               <ul className="p-2">
                 <li>
@@ -111,10 +153,17 @@ export default function Navbar() {
                   </Link>
                 </li>
                 <li>
-                  <a>Risk Matrix</a>
+                  <Link href="/deliverables/risk-matrix">Risk Matrix</Link>
                 </li>
                 <li>
-                  <a>Competition Matrix</a>
+                  <Link href="/deliverables/competition-matrix">
+                    Competition Matrix
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/deliverables/work-breakdown">
+                    Work Breakdown
+                  </Link>
                 </li>
               </ul>
             </details>
@@ -133,7 +182,7 @@ export default function Navbar() {
             </details>
           </li>
           <li>
-          <Link href="/Story">User Stories</Link>
+            <Link href="/Story">User Stories</Link>
           </li>
         </ul>
       </div>
