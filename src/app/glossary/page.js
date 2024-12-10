@@ -22,7 +22,7 @@ export default function Glossary() {
           </p>
           <p className="py-2 text-lg text-black">
             <span className="text-black text-xl font-bold">MongoDB</span>:
-            A non-relation NoSql database. Data is stored in flexible document-oriented format versus relational databases' table format. Designed to handle large volumes of unscructured or semi-structured data.
+            A non-relation NoSql database. Data is stored in flexible document-oriented format versus relational databases table format. Designed to handle large volumes of unscructured or semi-structured data.
           </p>
           <p className="py-2 text-lg text-black">
             <span className="text-black text-xl font-bold">API</span>: 
