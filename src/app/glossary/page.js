@@ -14,7 +14,7 @@ export default function Glossary() {
           </p>
           <p className="py-2 text-lg text-black">
             <span className="text-black text-xl font-bold">CSS</span>: 
-            A stylesheet language use to control the layout, presentation, and visual styling of web pages. Works in conjunction with HTML to enhance appearance of web content.
+            A stylesheet language used to control the layout, presentation, and visual styling of web pages. Works in conjunction with HTML to enhance appearance of web content.
           </p>
           <p className="py-2 text-lg text-black">
             <span className="text-black text-xl font-bold">IDE</span>: 
@@ -26,7 +26,7 @@ export default function Glossary() {
           </p>
           <p className="py-2 text-lg text-black">
             <span className="text-black text-xl font-bold">API</span>: 
-            Set of protocols, routines, tools that allow different software applications or systems to communicate with eachother. Defines methods and data formats that applications can use to request and exchange information. Essentially allows develops to interact with the functionality or data provided by another service/system.  
+            A set of protocols, routines, and tools that allow different software applications or systems to communicate with eachother. Defines methods and data formats that applications can use to request and exchange information. Essentially allows develops to interact with the functionality or data provided by another service/system.  
           </p>
         </div>
       </div>
