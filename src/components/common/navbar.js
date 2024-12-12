@@ -36,6 +36,9 @@ export default function Navbar() {
               <Link href="/team-members">Team Members</Link>
             </li>
             <li>
+              <Link href="/prototype">Prototype</Link>
+            </li>
+            <li>
               <Link href="/glossary">Glossary</Link>
             </li>
             <li>
@@ -114,6 +117,9 @@ export default function Navbar() {
           </li>
           <li>
             <Link href="/team-members">Team Members</Link>
+          </li>
+          <li>
+            <Link href="/prototype">Prototype</Link>
           </li>
           <li>
             <Link href="/glossary">Glossary</Link>

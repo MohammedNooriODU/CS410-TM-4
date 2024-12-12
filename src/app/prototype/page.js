@@ -1,0 +1,99 @@
+import Image from "next/image";
+
+export default function Prototype() {
+  return (
+    <div className="bg-transparent min-h-screen flex flex-row justify-center items-center p-48">
+      <div className="flex flex-col items-center gap-6 p-6">
+        <h1 className="text-5xl font-bold">Prototype</h1>
+        <div className="flex flex-col lg:flex-row gap-6 justify-center">
+          <Image
+            src="prototype-1.png"
+            width={500}
+            height={800}
+            alt="image-1"
+            className="rounded-2xl"
+          />
+          <Image
+            src="prototype-2.png"
+            width={500}
+            height={800}
+            alt="image-2"
+            className="rounded-2xl"
+          />
+          <Image
+            src="prototype-3.png"
+            width={500}
+            height={800}
+            alt="image-3"
+            className="rounded-2xl"
+          />
+          <Image
+            src="prototype-4.png"
+            width={500}
+            height={800}
+            alt="image-4"
+            className="rounded-2xl"
+          />
+          <Image
+            src="prototype-5.png"
+            width={500}
+            height={800}
+            alt="image-5"
+            className="rounded-2xl"
+          />
+          <Image
+            src="prototype-6.png"
+            width={500}
+            height={800}
+            alt="image-6"
+            className="rounded-2xl"
+          />
+        </div>
+        <div className="flex flex-col lg:flex-row gap-6 justify-center">
+          <Image
+            src="prototype-7.png"
+            width={500}
+            height={800}
+            alt="image-7"
+            className="rounded-2xl"
+          />
+          <Image
+            src="prototype-8.png"
+            width={500}
+            height={800}
+            alt="image-8"
+            className="rounded-2xl"
+          />
+          <Image
+            src="prototype-9.png"
+            width={500}
+            height={800}
+            alt="image-9"
+            className="rounded-2xl"
+          />
+          <Image
+            src="prototype-10.png"
+            width={500}
+            height={800}
+            alt="image-10"
+            className="rounded-2xl"
+          />
+          <Image
+            src="prototype-11.png"
+            width={500}
+            height={800}
+            alt="image-11"
+            className="rounded-2xl"
+          />
+          <Image
+            src="prototype-12.png"
+            width={500}
+            height={800}
+            alt="image-12"
+            className="rounded-2xl"
+          />
+        </div>
+      </div>
+    </div>
+  );
+}

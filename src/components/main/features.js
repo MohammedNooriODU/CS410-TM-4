@@ -37,8 +37,7 @@ export default function Features() {
 
           <h2 className="text-center font-bold text-3xl">Private</h2>
           <p className="text-xl">
-            We don not collect any of your personal data and we don not track
-            you
+            We do not collect any of your personal data and we do not track you
           </p>
         </div>
         <div className="flex flex-col items-center justify-center gap-4 w-full md:w-1/3">
