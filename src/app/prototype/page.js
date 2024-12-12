@@ -3,9 +3,9 @@ import Image from "next/image";
 export default function Prototype() {
   return (
     <div className="bg-transparent min-h-screen flex flex-row justify-center items-center p-48">
-      <div className="flex flex-col items-center gap-6 p-6">
+      <div className="flex flex-col items-center gap-6 p-40">
         <h1 className="text-5xl font-bold">Prototype</h1>
-        <div className="flex flex-col lg:flex-row gap-6 justify-center">
+        <div className="flex flex-col 2xl:flex-row gap-6 justify-center">
           <Image
             src="prototype-1.png"
             width={500}
@@ -49,7 +49,7 @@ export default function Prototype() {
             className="rounded-2xl"
           />
         </div>
-        <div className="flex flex-col lg:flex-row gap-6 justify-center">
+        <div className="flex flex-col 2xl:flex-row gap-6 justify-center">
           <Image
             src="prototype-7.png"
             width={500}

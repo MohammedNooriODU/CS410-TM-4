@@ -107,7 +107,7 @@ export default function Navbar() {
           GrubTurbo
         </Link>
       </div>
-      <div className="navbar-center hidden lg:flex">
+      <div className="shrink xl:navbar-center hidden lg:flex">
         <ul className="menu menu-horizontal px-1 font-bold">
           <li>
             <Link href="/problem">Problem</Link>
