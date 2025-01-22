@@ -78,7 +78,7 @@ export default function Solution() {
             Zahniser, Steven., & Kassel Kathleen. What is agriculture{"’"}s share of the overall U.S. economy? 
             Economic Research Service. December 19, 2024. 
             <a href = "https://www.ers.usda.gov/data-products/ag-and-food-statistics-charting-the-essentials/ag-and-food-sectors-and-the-economy#:~:text=What%20is%20agriculture's%20share%20of%20the%20overall%20U.S.%20economy?&text=According%20to%20data%20from%20the,products;%20and%20forestry%20and%20fishing">
-            https://www.ers.usda.gov/data-products/ag-and-food-statistics-charting-the-essentials/ag-and-food-sectors-and-the-economy#:~:text=What%20is%20agriculture's%20share%20of%20the%20overall%20U.S.%20economy?&text=According%20to%20data%20from%20the,products;%20and%20forestry%20and%20fishing.</a> 
+            https://www.ers.usda.gov/data-products/ag-and-food-statistics-charting-the-essentials/ag-and-food-sectors-and-the-economy#:~:text=What%20is%20agriculture{"’"}s%20share%20of%20the%20overall%20U.S.%20economy?&text=According%20to%20data%20from%20the,products;%20and%20forestry%20and%20fishing.</a> 
             </p>
         </div>
       </div>
