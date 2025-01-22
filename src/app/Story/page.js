@@ -67,7 +67,7 @@ export default function Solution() {
             </li>
             <li>
               As a hungry person, I would like for a decline button that
-              functions like a left swipe.
+               functions like a left swipe.
             </li>
             <li>
               As a hungry person, I would like for a right swipe to accept the
@@ -168,5 +168,5 @@ export default function Solution() {
         </div>
       </div>
     </div>
-  );
+  )
 }
