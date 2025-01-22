@@ -190,6 +190,9 @@ export default function Navbar() {
           <li>
             <Link href="/Story">User Stories</Link>
           </li>
+          <li>
+            <Link href="/Lab">Labs</Link>
+          </li>
         </ul>
       </div>
     </div>
