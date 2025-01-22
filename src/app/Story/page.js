@@ -168,5 +168,5 @@ export default function Solution() {
         </div>
       </div>
     </div>
-  )
+  );
 }

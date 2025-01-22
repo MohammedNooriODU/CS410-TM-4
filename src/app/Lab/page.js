@@ -28,10 +28,10 @@ export default function Solution() {
               </ul> */}
               <p>Food is the fuel for our body. 
                 It allows us to do all of the activities that make us human. 
-                Whether that’s dancing, skydiving, or rock climbing, food gives us the ability to make our dreams a reality. 
+                Whether that{"’"}s dancing, skydiving, or rock climbing, food gives us the ability to make our dreams a reality. 
                 Food is so important to us that the food industry managed to become a trillion dollar business where it contributes to 5.5% to the US GDP by itself (Zahniser & Kassel). 
                 However, as society becomes faster and technology grows, figuring out which food to eat becomes harder and harder. 
-                71% of people took 15–20 minutes to decide where to eat, 15% took 20 mins to an hour, and 14% took more than an hour. 
+                71% of people took 15{"-"}20 minutes to decide where to eat, 15% took 20 mins to an hour, and 14% took more than an hour. 
                 On average, people reported that it usually takes them about 20 minutes to find somewhere to eat, sometimes more (Verma). 
                 20 minutes just to decide what to eat. 
                 This is not accounting for time to drive to the restaurant or time to make the food. 
@@ -49,7 +49,7 @@ export default function Solution() {
             <h2 className="text-5x1 font-bold">2.1 Key Product Features and Capabilities</h2>
             <p>
             GrubTurbo gets users to a place to eat by recommending restaurants based on filters and distance. 
-            It’s designed to simplify the traditional process of finding a dining option. 
+            It{"’"}s designed to simplify the traditional process of finding a dining option. 
             The swiping mechanism part of the app allows users to sort through restaurant options without needing to sift through lengthy lists. 
             Additionally, this application also emphasizes supporting local eateries rather than solely promoting mainstream chain restaurants. 
             GrubTurbo addresses the problem of overwhelming choices and lack of customization in traditional apps. 
@@ -75,7 +75,7 @@ export default function Solution() {
             </a>
             <br></br>
             <p>
-            Zahniser, Steven., & Kassel Kathleen. What is agriculture's share of the overall U.S. economy? 
+            Zahniser, Steven., & Kassel Kathleen. What is agriculture{"’"}s share of the overall U.S. economy? 
             Economic Research Service. December 19, 2024. 
             <a href = "https://www.ers.usda.gov/data-products/ag-and-food-statistics-charting-the-essentials/ag-and-food-sectors-and-the-economy#:~:text=What%20is%20agriculture's%20share%20of%20the%20overall%20U.S.%20economy?&text=According%20to%20data%20from%20the,products;%20and%20forestry%20and%20fishing">
             https://www.ers.usda.gov/data-products/ag-and-food-statistics-charting-the-essentials/ag-and-food-sectors-and-the-economy#:~:text=What%20is%20agriculture's%20share%20of%20the%20overall%20U.S.%20economy?&text=According%20to%20data%20from%20the,products;%20and%20forestry%20and%20fishing.</a> 
